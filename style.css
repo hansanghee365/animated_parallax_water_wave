@@ -12,7 +12,7 @@ section{
     background: #3586ff;
 }
 section p{
-    margin: 100px;
+    margin: 0 100px;
     padding: 100px 0;
     color:#fff;
     font-size:4em;
